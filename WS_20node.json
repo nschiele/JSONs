@@ -1,0 +1,286 @@
+{
+ "nodes": [
+  {
+   "id": "A",
+   "group": 1
+  },
+  {
+   "id": "B",
+   "group": 1
+  },
+  {
+   "id": "C",
+   "group": 1
+  },
+  {
+   "id": "D",
+   "group": 1
+  },
+  {
+   "id": "E",
+   "group": 1
+  },
+  {
+   "id": "F",
+   "group": 1
+  },
+  {
+   "id": "G",
+   "group": 1
+  },
+  {
+   "id": "H",
+   "group": 1
+  },
+  {
+   "id": "I",
+   "group": 1
+  },
+  {
+   "id": "J",
+   "group": 1
+  },
+  {
+   "id": "K",
+   "group": 1
+  },
+  {
+   "id": "L",
+   "group": 1
+  },
+  {
+   "id": "M",
+   "group": 1
+  },
+  {
+   "id": "N",
+   "group": 1
+  },
+  {
+   "id": "O",
+   "group": 1
+  },
+  {
+   "id": "P",
+   "group": 1
+  },
+  {
+   "id": "Q",
+   "group": 1
+  },
+  {
+   "id": "R",
+   "group": 1
+  },
+  {
+   "id": "S",
+   "group": 1
+  },
+  {
+   "id": "T",
+   "group": 1
+  }
+ ],
+ "edges": [
+  {
+   "source": "A",
+   "target": "B",
+   "weight": 0
+  },
+  {
+   "source": "A",
+   "target": "I",
+   "weight": 0
+  },
+  {
+   "source": "B",
+   "target": "C",
+   "weight": 0
+  },
+  {
+   "source": "B",
+   "target": "A",
+   "weight": 0
+  },
+  {
+   "source": "C",
+   "target": "D",
+   "weight": 0
+  },
+  {
+   "source": "C",
+   "target": "B",
+   "weight": 0
+  },
+  {
+   "source": "D",
+   "target": "E",
+   "weight": 0
+  },
+  {
+   "source": "D",
+   "target": "B",
+   "weight": 0
+  },
+  {
+   "source": "E",
+   "target": "J",
+   "weight": 0
+  },
+  {
+   "source": "E",
+   "target": "D",
+   "weight": 0
+  },
+  {
+   "source": "F",
+   "target": "G",
+   "weight": 0
+  },
+  {
+   "source": "F",
+   "target": "E",
+   "weight": 0
+  },
+  {
+   "source": "G",
+   "target": "J",
+   "weight": 0
+  },
+  {
+   "source": "G",
+   "target": "F",
+   "weight": 0
+  },
+  {
+   "source": "H",
+   "target": "I",
+   "weight": 0
+  },
+  {
+   "source": "H",
+   "target": "J",
+   "weight": 0
+  },
+  {
+   "source": "I",
+   "target": "J",
+   "weight": 0
+  },
+  {
+   "source": "I",
+   "target": "T",
+   "weight": 0
+  },
+  {
+   "source": "J",
+   "target": "Q",
+   "weight": 0
+  },
+  {
+   "source": "J",
+   "target": "I",
+   "weight": 0
+  },
+  {
+   "source": "K",
+   "target": "E",
+   "weight": 0
+  },
+  {
+   "source": "K",
+   "target": "J",
+   "weight": 0
+  },
+  {
+   "source": "L",
+   "target": "M",
+   "weight": 0
+  },
+  {
+   "source": "L",
+   "target": "K",
+   "weight": 0
+  },
+  {
+   "source": "M",
+   "target": "N",
+   "weight": 0
+  },
+  {
+   "source": "M",
+   "target": "L",
+   "weight": 0
+  },
+  {
+   "source": "N",
+   "target": "O",
+   "weight": 0
+  },
+  {
+   "source": "N",
+   "target": "M",
+   "weight": 0
+  },
+  {
+   "source": "O",
+   "target": "N",
+   "weight": 0
+  },
+  {
+   "source": "O",
+   "target": "G",
+   "weight": 0
+  },
+  {
+   "source": "P",
+   "target": "Q",
+   "weight": 0
+  },
+  {
+   "source": "P",
+   "target": "O",
+   "weight": 0
+  },
+  {
+   "source": "Q",
+   "target": "R",
+   "weight": 0
+  },
+  {
+   "source": "Q",
+   "target": "P",
+   "weight": 0
+  },
+  {
+   "source": "R",
+   "target": "S",
+   "weight": 0
+  },
+  {
+   "source": "R",
+   "target": "E",
+   "weight": 0
+  },
+  {
+   "source": "S",
+   "target": "T",
+   "weight": 0
+  },
+  {
+   "source": "S",
+   "target": "R",
+   "weight": 0
+  },
+  {
+   "source": "T",
+   "target": "A",
+   "weight": 0
+  },
+  {
+   "source": "T",
+   "target": "S",
+   "weight": 0
+  }
+ ]
+}
