@@ -81,7 +81,7 @@
    "group": 1
   }
  ],
- "links": [
+ "edges": [
   {
    "source": "B",
    "target": "A",
