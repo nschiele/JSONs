@@ -1,0 +1,596 @@
+{
+ "nodes": [
+  {
+   "id": "A_s",
+   "x": 100,
+   "y": 50,
+   "group": 0
+  },
+  {
+   "id": "A_t",
+   "x": 900,
+   "y": 50,
+   "group": 1
+  },
+  {
+   "id": "B_s",
+   "x": 100,
+   "y": 95,
+   "group": 0
+  },
+  {
+   "id": "B_t",
+   "x": 900,
+   "y": 95,
+   "group": 1
+  },
+  {
+   "id": "C_s",
+   "x": 100,
+   "y": 140,
+   "group": 0
+  },
+  {
+   "id": "C_t",
+   "x": 900,
+   "y": 140,
+   "group": 1
+  },
+  {
+   "id": "D_s",
+   "x": 100,
+   "y": 185,
+   "group": 0
+  },
+  {
+   "id": "D_t",
+   "x": 900,
+   "y": 185,
+   "group": 1
+  },
+  {
+   "id": "E_s",
+   "x": 100,
+   "y": 230,
+   "group": 0
+  },
+  {
+   "id": "E_t",
+   "x": 900,
+   "y": 230,
+   "group": 1
+  },
+  {
+   "id": "F_s",
+   "x": 100,
+   "y": 275,
+   "group": 0
+  },
+  {
+   "id": "F_t",
+   "x": 900,
+   "y": 275,
+   "group": 1
+  },
+  {
+   "id": "G_s",
+   "x": 100,
+   "y": 320,
+   "group": 0
+  },
+  {
+   "id": "G_t",
+   "x": 900,
+   "y": 320,
+   "group": 1
+  },
+  {
+   "id": "H_s",
+   "x": 100,
+   "y": 365,
+   "group": 0
+  },
+  {
+   "id": "H_t",
+   "x": 900,
+   "y": 365,
+   "group": 1
+  },
+  {
+   "id": "I_s",
+   "x": 100,
+   "y": 410,
+   "group": 0
+  },
+  {
+   "id": "I_t",
+   "x": 900,
+   "y": 410,
+   "group": 1
+  },
+  {
+   "id": "J_s",
+   "x": 100,
+   "y": 455,
+   "group": 0
+  },
+  {
+   "id": "J_t",
+   "x": 900,
+   "y": 455,
+   "group": 1
+  },
+  {
+   "id": "K_s",
+   "x": 100,
+   "y": 500,
+   "group": 0
+  },
+  {
+   "id": "K_t",
+   "x": 900,
+   "y": 500,
+   "group": 1
+  },
+  {
+   "id": "L_s",
+   "x": 100,
+   "y": 545,
+   "group": 0
+  },
+  {
+   "id": "L_t",
+   "x": 900,
+   "y": 545,
+   "group": 1
+  },
+  {
+   "id": "M_s",
+   "x": 100,
+   "y": 590,
+   "group": 0
+  },
+  {
+   "id": "M_t",
+   "x": 900,
+   "y": 590,
+   "group": 1
+  },
+  {
+   "id": "N_s",
+   "x": 100,
+   "y": 635,
+   "group": 0
+  },
+  {
+   "id": "N_t",
+   "x": 900,
+   "y": 635,
+   "group": 1
+  },
+  {
+   "id": "O_s",
+   "x": 100,
+   "y": 680,
+   "group": 0
+  },
+  {
+   "id": "O_t",
+   "x": 900,
+   "y": 680,
+   "group": 1
+  },
+  {
+   "id": "P_s",
+   "x": 100,
+   "y": 725,
+   "group": 0
+  },
+  {
+   "id": "P_t",
+   "x": 900,
+   "y": 725,
+   "group": 1
+  },
+  {
+   "id": "Q_s",
+   "x": 100,
+   "y": 770,
+   "group": 0
+  },
+  {
+   "id": "Q_t",
+   "x": 900,
+   "y": 770,
+   "group": 1
+  },
+  {
+   "id": "R_s",
+   "x": 100,
+   "y": 815,
+   "group": 0
+  },
+  {
+   "id": "R_t",
+   "x": 900,
+   "y": 815,
+   "group": 1
+  },
+  {
+   "id": "S_s",
+   "x": 100,
+   "y": 860,
+   "group": 0
+  },
+  {
+   "id": "S_t",
+   "x": 900,
+   "y": 860,
+   "group": 1
+  },
+  {
+   "id": "T_s",
+   "x": 100,
+   "y": 905,
+   "group": 0
+  },
+  {
+   "id": "T_t",
+   "x": 900,
+   "y": 905,
+   "group": 1
+  }
+ ],
+ "edges": [
+  {
+   "source": "B_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "C_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "C_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "D_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "D_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "D_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "E_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "E_s",
+   "target": "D_t",
+   "value": 0
+  },
+  {
+   "source": "E_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "E_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "F_s",
+   "target": "D_t",
+   "value": 0
+  },
+  {
+   "source": "F_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "F_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "F_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "G_s",
+   "target": "F_t",
+   "value": 0
+  },
+  {
+   "source": "G_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "G_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "G_s",
+   "target": "D_t",
+   "value": 0
+  },
+  {
+   "source": "H_s",
+   "target": "G_t",
+   "value": 0
+  },
+  {
+   "source": "H_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "H_s",
+   "target": "F_t",
+   "value": 0
+  },
+  {
+   "source": "H_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "I_s",
+   "target": "F_t",
+   "value": 0
+  },
+  {
+   "source": "I_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "I_s",
+   "target": "H_t",
+   "value": 0
+  },
+  {
+   "source": "I_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "J_s",
+   "target": "H_t",
+   "value": 0
+  },
+  {
+   "source": "J_s",
+   "target": "I_t",
+   "value": 0
+  },
+  {
+   "source": "J_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "J_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "K_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "K_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "K_s",
+   "target": "F_t",
+   "value": 0
+  },
+  {
+   "source": "K_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "L_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "L_s",
+   "target": "K_t",
+   "value": 0
+  },
+  {
+   "source": "L_s",
+   "target": "I_t",
+   "value": 0
+  },
+  {
+   "source": "L_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "M_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "M_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "M_s",
+   "target": "K_t",
+   "value": 0
+  },
+  {
+   "source": "M_s",
+   "target": "A_t",
+   "value": 0
+  },
+  {
+   "source": "N_s",
+   "target": "M_t",
+   "value": 0
+  },
+  {
+   "source": "N_s",
+   "target": "I_t",
+   "value": 0
+  },
+  {
+   "source": "N_s",
+   "target": "C_t",
+   "value": 0
+  },
+  {
+   "source": "N_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "O_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "O_s",
+   "target": "D_t",
+   "value": 0
+  },
+  {
+   "source": "O_s",
+   "target": "G_t",
+   "value": 0
+  },
+  {
+   "source": "O_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "P_s",
+   "target": "M_t",
+   "value": 0
+  },
+  {
+   "source": "P_s",
+   "target": "K_t",
+   "value": 0
+  },
+  {
+   "source": "P_s",
+   "target": "H_t",
+   "value": 0
+  },
+  {
+   "source": "P_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "Q_s",
+   "target": "K_t",
+   "value": 0
+  },
+  {
+   "source": "Q_s",
+   "target": "O_t",
+   "value": 0
+  },
+  {
+   "source": "Q_s",
+   "target": "M_t",
+   "value": 0
+  },
+  {
+   "source": "Q_s",
+   "target": "I_t",
+   "value": 0
+  },
+  {
+   "source": "R_s",
+   "target": "B_t",
+   "value": 0
+  },
+  {
+   "source": "R_s",
+   "target": "F_t",
+   "value": 0
+  },
+  {
+   "source": "R_s",
+   "target": "N_t",
+   "value": 0
+  },
+  {
+   "source": "R_s",
+   "target": "E_t",
+   "value": 0
+  },
+  {
+   "source": "S_s",
+   "target": "G_t",
+   "value": 0
+  },
+  {
+   "source": "S_s",
+   "target": "O_t",
+   "value": 0
+  },
+  {
+   "source": "S_s",
+   "target": "H_t",
+   "value": 0
+  },
+  {
+   "source": "S_s",
+   "target": "M_t",
+   "value": 0
+  },
+  {
+   "source": "T_s",
+   "target": "M_t",
+   "value": 0
+  },
+  {
+   "source": "T_s",
+   "target": "P_t",
+   "value": 0
+  },
+  {
+   "source": "T_s",
+   "target": "K_t",
+   "value": 0
+  },
+  {
+   "source": "T_s",
+   "target": "F_t",
+   "value": 0
+  }
+ ]
+}
