@@ -1,0 +1,181 @@
+{
+ "nodes": [
+  {
+   "id": "A",
+   "group": 1
+  },
+  {
+   "id": "F",
+   "group": 1
+  },
+  {
+   "id": "N",
+   "group": 1
+  },
+  {
+   "id": "B",
+   "group": 1
+  },
+  {
+   "id": "P",
+   "group": 1
+  },
+  {
+   "id": "C",
+   "group": 1
+  },
+  {
+   "id": "D",
+   "group": 1
+  },
+  {
+   "id": "E",
+   "group": 1
+  },
+  {
+   "id": "I",
+   "group": 1
+  },
+  {
+   "id": "J",
+   "group": 1
+  },
+  {
+   "id": "G",
+   "group": 1
+  },
+  {
+   "id": "L",
+   "group": 1
+  },
+  {
+   "id": "H",
+   "group": 1
+  },
+  {
+   "id": "K",
+   "group": 1
+  },
+  {
+   "id": "M",
+   "group": 1
+  },
+  {
+   "id": "O",
+   "group": 1
+  },
+  {
+   "id": "Q",
+   "group": 1
+  },
+  {
+   "id": "R",
+   "group": 1
+  },
+  {
+   "id": "S",
+   "group": 1
+  },
+  {
+   "id": "T",
+   "group": 1
+  }
+ ],
+ "edges": [
+  {
+   "source": "A",
+   "target": "F",
+   "value": 1
+  },
+  {
+   "source": "F",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "N",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "B",
+   "target": "P",
+   "value": 1
+  },
+  {
+   "source": "P",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "C",
+   "target": "B",
+   "value": 1
+  },
+  {
+   "source": "D",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "E",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "I",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "J",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "G",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "L",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "K",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "M",
+   "target": "J",
+   "value": 1
+  },
+  {
+   "source": "O",
+   "target": "J",
+   "value": 1
+  },
+  {
+   "source": "Q",
+   "target": "O",
+   "value": 1
+  },
+  {
+   "source": "R",
+   "target": "M",
+   "value": 1
+  },
+  {
+   "source": "S",
+   "target": "N",
+   "value": 1
+  },
+  {
+   "source": "T",
+   "target": "N",
+   "value": 1
+  }
+ ]
+}

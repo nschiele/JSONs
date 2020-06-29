@@ -1,0 +1,341 @@
+{
+ "nodes": [
+  {
+   "id": "A",
+   "group": 1
+  },
+  {
+   "id": "B",
+   "group": 1
+  },
+  {
+   "id": "E",
+   "group": 1
+  },
+  {
+   "id": "J",
+   "group": 1
+  },
+  {
+   "id": "R",
+   "group": 1
+  },
+  {
+   "id": "G",
+   "group": 1
+  },
+  {
+   "id": "M",
+   "group": 1
+  },
+  {
+   "id": "I",
+   "group": 1
+  },
+  {
+   "id": "L",
+   "group": 1
+  },
+  {
+   "id": "D",
+   "group": 1
+  },
+  {
+   "id": "N",
+   "group": 1
+  },
+  {
+   "id": "C",
+   "group": 1
+  },
+  {
+   "id": "K",
+   "group": 1
+  },
+  {
+   "id": "Q",
+   "group": 1
+  },
+  {
+   "id": "S",
+   "group": 1
+  },
+  {
+   "id": "T",
+   "group": 1
+  },
+  {
+   "id": "H",
+   "group": 1
+  },
+  {
+   "id": "P",
+   "group": 1
+  },
+  {
+   "id": "F",
+   "group": 1
+  },
+  {
+   "id": "O",
+   "group": 1
+  }
+ ],
+ "edges": [
+  {
+   "source": "A",
+   "target": "B",
+   "value": 1
+  },
+  {
+   "source": "A",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "A",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "A",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "A",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "A",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "A",
+   "target": "R",
+   "value": 1
+  },
+  {
+   "source": "B",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "B",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "B",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "B",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "B",
+   "target": "H",
+   "value": 1
+  },
+  {
+   "source": "B",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "E",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "E",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "E",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "E",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "J",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "J",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "J",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "J",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "R",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "R",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "G",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "M",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "I",
+   "target": "H",
+   "value": 1
+  },
+  {
+   "source": "I",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "L",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "L",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "D",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "D",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "D",
+   "target": "B",
+   "value": 1
+  },
+  {
+   "source": "D",
+   "target": "K",
+   "value": 1
+  },
+  {
+   "source": "D",
+   "target": "P",
+   "value": 1
+  },
+  {
+   "source": "N",
+   "target": "B",
+   "value": 1
+  },
+  {
+   "source": "N",
+   "target": "K",
+   "value": 1
+  },
+  {
+   "source": "C",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "C",
+   "target": "B",
+   "value": 1
+  },
+  {
+   "source": "C",
+   "target": "N",
+   "value": 1
+  },
+  {
+   "source": "K",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "K",
+   "target": "P",
+   "value": 1
+  },
+  {
+   "source": "K",
+   "target": "L",
+   "value": 1
+  },
+  {
+   "source": "K",
+   "target": "N",
+   "value": 1
+  },
+  {
+   "source": "K",
+   "target": "J",
+   "value": 1
+  },
+  {
+   "source": "Q",
+   "target": "J",
+   "value": 1
+  },
+  {
+   "source": "S",
+   "target": "P",
+   "value": 1
+  },
+  {
+   "source": "T",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "H",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "P",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "P",
+   "target": "F",
+   "value": 1
+  },
+  {
+   "source": "O",
+   "target": "T",
+   "value": 1
+  }
+ ]
+}

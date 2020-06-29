@@ -1,0 +1,886 @@
+{
+ "nodes": [
+  {
+   "id": "A",
+   "group": 1
+  },
+  {
+   "id": "B",
+   "group": 1
+  },
+  {
+   "id": "AG",
+   "group": 1
+  },
+  {
+   "id": "C",
+   "group": 1
+  },
+  {
+   "id": "D",
+   "group": 1
+  },
+  {
+   "id": "E",
+   "group": 1
+  },
+  {
+   "id": "F",
+   "group": 1
+  },
+  {
+   "id": "J",
+   "group": 1
+  },
+  {
+   "id": "Z",
+   "group": 1
+  },
+  {
+   "id": "CG",
+   "group": 1
+  },
+  {
+   "id": "G",
+   "group": 1
+  },
+  {
+   "id": "I",
+   "group": 1
+  },
+  {
+   "id": "K",
+   "group": 1
+  },
+  {
+   "id": "BV",
+   "group": 1
+  },
+  {
+   "id": "H",
+   "group": 1
+  },
+  {
+   "id": "T",
+   "group": 1
+  },
+  {
+   "id": "BM",
+   "group": 1
+  },
+  {
+   "id": "CR",
+   "group": 1
+  },
+  {
+   "id": "L",
+   "group": 1
+  },
+  {
+   "id": "O",
+   "group": 1
+  },
+  {
+   "id": "M",
+   "group": 1
+  },
+  {
+   "id": "BA",
+   "group": 1
+  },
+  {
+   "id": "CS",
+   "group": 1
+  },
+  {
+   "id": "CV",
+   "group": 1
+  },
+  {
+   "id": "N",
+   "group": 1
+  },
+  {
+   "id": "S",
+   "group": 1
+  },
+  {
+   "id": "W",
+   "group": 1
+  },
+  {
+   "id": "CI",
+   "group": 1
+  },
+  {
+   "id": "P",
+   "group": 1
+  },
+  {
+   "id": "AI",
+   "group": 1
+  },
+  {
+   "id": "Q",
+   "group": 1
+  },
+  {
+   "id": "R",
+   "group": 1
+  },
+  {
+   "id": "AB",
+   "group": 1
+  },
+  {
+   "id": "AM",
+   "group": 1
+  },
+  {
+   "id": "U",
+   "group": 1
+  },
+  {
+   "id": "AN",
+   "group": 1
+  },
+  {
+   "id": "V",
+   "group": 1
+  },
+  {
+   "id": "AL",
+   "group": 1
+  },
+  {
+   "id": "CD",
+   "group": 1
+  },
+  {
+   "id": "X",
+   "group": 1
+  },
+  {
+   "id": "AT",
+   "group": 1
+  },
+  {
+   "id": "Y",
+   "group": 1
+  },
+  {
+   "id": "CE",
+   "group": 1
+  },
+  {
+   "id": "AA",
+   "group": 1
+  },
+  {
+   "id": "CP",
+   "group": 1
+  },
+  {
+   "id": "AC",
+   "group": 1
+  },
+  {
+   "id": "AO",
+   "group": 1
+  },
+  {
+   "id": "BW",
+   "group": 1
+  },
+  {
+   "id": "AD",
+   "group": 1
+  },
+  {
+   "id": "AE",
+   "group": 1
+  },
+  {
+   "id": "BJ",
+   "group": 1
+  },
+  {
+   "id": "CH",
+   "group": 1
+  },
+  {
+   "id": "AF",
+   "group": 1
+  },
+  {
+   "id": "CU",
+   "group": 1
+  },
+  {
+   "id": "AH",
+   "group": 1
+  },
+  {
+   "id": "BK",
+   "group": 1
+  },
+  {
+   "id": "AJ",
+   "group": 1
+  },
+  {
+   "id": "AZ",
+   "group": 1
+  },
+  {
+   "id": "AK",
+   "group": 1
+  },
+  {
+   "id": "CQ",
+   "group": 1
+  },
+  {
+   "id": "AP",
+   "group": 1
+  },
+  {
+   "id": "BI",
+   "group": 1
+  },
+  {
+   "id": "CC",
+   "group": 1
+  },
+  {
+   "id": "AQ",
+   "group": 1
+  },
+  {
+   "id": "AR",
+   "group": 1
+  },
+  {
+   "id": "AS",
+   "group": 1
+  },
+  {
+   "id": "AU",
+   "group": 1
+  },
+  {
+   "id": "AV",
+   "group": 1
+  },
+  {
+   "id": "BL",
+   "group": 1
+  },
+  {
+   "id": "AW",
+   "group": 1
+  },
+  {
+   "id": "AX",
+   "group": 1
+  },
+  {
+   "id": "AY",
+   "group": 1
+  },
+  {
+   "id": "BB",
+   "group": 1
+  },
+  {
+   "id": "BD",
+   "group": 1
+  },
+  {
+   "id": "CF",
+   "group": 1
+  },
+  {
+   "id": "BC",
+   "group": 1
+  },
+  {
+   "id": "BF",
+   "group": 1
+  },
+  {
+   "id": "BE",
+   "group": 1
+  },
+  {
+   "id": "BG",
+   "group": 1
+  },
+  {
+   "id": "CM",
+   "group": 1
+  },
+  {
+   "id": "BH",
+   "group": 1
+  },
+  {
+   "id": "BN",
+   "group": 1
+  },
+  {
+   "id": "BT",
+   "group": 1
+  },
+  {
+   "id": "BY",
+   "group": 1
+  },
+  {
+   "id": "BO",
+   "group": 1
+  },
+  {
+   "id": "CO",
+   "group": 1
+  },
+  {
+   "id": "BX",
+   "group": 1
+  },
+  {
+   "id": "BP",
+   "group": 1
+  },
+  {
+   "id": "BQ",
+   "group": 1
+  },
+  {
+   "id": "BR",
+   "group": 1
+  },
+  {
+   "id": "BS",
+   "group": 1
+  },
+  {
+   "id": "BU",
+   "group": 1
+  },
+  {
+   "id": "BZ",
+   "group": 1
+  },
+  {
+   "id": "CL",
+   "group": 1
+  },
+  {
+   "id": "CA",
+   "group": 1
+  },
+  {
+   "id": "CB",
+   "group": 1
+  },
+  {
+   "id": "CJ",
+   "group": 1
+  },
+  {
+   "id": "CK",
+   "group": 1
+  },
+  {
+   "id": "CN",
+   "group": 1
+  },
+  {
+   "id": "CT",
+   "group": 1
+  }
+ ],
+ "edges": [
+  {
+   "source": "B",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "AG",
+   "target": "A",
+   "value": 1
+  },
+  {
+   "source": "F",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "J",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "Z",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "CG",
+   "target": "D",
+   "value": 1
+  },
+  {
+   "source": "G",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "I",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "K",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "BV",
+   "target": "E",
+   "value": 1
+  },
+  {
+   "source": "H",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "T",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "BM",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "CR",
+   "target": "G",
+   "value": 1
+  },
+  {
+   "source": "L",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "O",
+   "target": "C",
+   "value": 1
+  },
+  {
+   "source": "M",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "BA",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "CS",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "CV",
+   "target": "I",
+   "value": 1
+  },
+  {
+   "source": "N",
+   "target": "H",
+   "value": 1
+  },
+  {
+   "source": "S",
+   "target": "H",
+   "value": 1
+  },
+  {
+   "source": "W",
+   "target": "H",
+   "value": 1
+  },
+  {
+   "source": "CI",
+   "target": "H",
+   "value": 1
+  },
+  {
+   "source": "P",
+   "target": "N",
+   "value": 1
+  },
+  {
+   "source": "AI",
+   "target": "N",
+   "value": 1
+  },
+  {
+   "source": "Q",
+   "target": "K",
+   "value": 1
+  },
+  {
+   "source": "R",
+   "target": "L",
+   "value": 1
+  },
+  {
+   "source": "AB",
+   "target": "L",
+   "value": 1
+  },
+  {
+   "source": "AM",
+   "target": "L",
+   "value": 1
+  },
+  {
+   "source": "U",
+   "target": "O",
+   "value": 1
+  },
+  {
+   "source": "AN",
+   "target": "O",
+   "value": 1
+  },
+  {
+   "source": "V",
+   "target": "T",
+   "value": 1
+  },
+  {
+   "source": "AL",
+   "target": "T",
+   "value": 1
+  },
+  {
+   "source": "CD",
+   "target": "T",
+   "value": 1
+  },
+  {
+   "source": "X",
+   "target": "R",
+   "value": 1
+  },
+  {
+   "source": "AT",
+   "target": "R",
+   "value": 1
+  },
+  {
+   "source": "Y",
+   "target": "Q",
+   "value": 1
+  },
+  {
+   "source": "CE",
+   "target": "Q",
+   "value": 1
+  },
+  {
+   "source": "AA",
+   "target": "S",
+   "value": 1
+  },
+  {
+   "source": "CP",
+   "target": "S",
+   "value": 1
+  },
+  {
+   "source": "AC",
+   "target": "X",
+   "value": 1
+  },
+  {
+   "source": "AO",
+   "target": "X",
+   "value": 1
+  },
+  {
+   "source": "BW",
+   "target": "X",
+   "value": 1
+  },
+  {
+   "source": "AD",
+   "target": "AA",
+   "value": 1
+  },
+  {
+   "source": "AE",
+   "target": "F",
+   "value": 1
+  },
+  {
+   "source": "BJ",
+   "target": "F",
+   "value": 1
+  },
+  {
+   "source": "CH",
+   "target": "F",
+   "value": 1
+  },
+  {
+   "source": "AF",
+   "target": "P",
+   "value": 1
+  },
+  {
+   "source": "CU",
+   "target": "P",
+   "value": 1
+  },
+  {
+   "source": "AH",
+   "target": "AF",
+   "value": 1
+  },
+  {
+   "source": "BK",
+   "target": "AF",
+   "value": 1
+  },
+  {
+   "source": "AJ",
+   "target": "AE",
+   "value": 1
+  },
+  {
+   "source": "AZ",
+   "target": "AE",
+   "value": 1
+  },
+  {
+   "source": "AK",
+   "target": "CQ",
+   "value": 1
+  },
+  {
+   "source": "CQ",
+   "target": "BB",
+   "value": 1
+  },
+  {
+   "source": "AP",
+   "target": "BA",
+   "value": 1
+  },
+  {
+   "source": "BI",
+   "target": "BA",
+   "value": 1
+  },
+  {
+   "source": "CC",
+   "target": "BA",
+   "value": 1
+  },
+  {
+   "source": "AQ",
+   "target": "AC",
+   "value": 1
+  },
+  {
+   "source": "AR",
+   "target": "AO",
+   "value": 1
+  },
+  {
+   "source": "AS",
+   "target": "AJ",
+   "value": 1
+  },
+  {
+   "source": "AU",
+   "target": "BK",
+   "value": 1
+  },
+  {
+   "source": "AV",
+   "target": "AD",
+   "value": 1
+  },
+  {
+   "source": "BL",
+   "target": "AD",
+   "value": 1
+  },
+  {
+   "source": "AW",
+   "target": "U",
+   "value": 1
+  },
+  {
+   "source": "AX",
+   "target": "AU",
+   "value": 1
+  },
+  {
+   "source": "AY",
+   "target": "J",
+   "value": 1
+  },
+  {
+   "source": "BB",
+   "target": "AT",
+   "value": 1
+  },
+  {
+   "source": "BD",
+   "target": "AT",
+   "value": 1
+  },
+  {
+   "source": "CF",
+   "target": "AT",
+   "value": 1
+  },
+  {
+   "source": "BC",
+   "target": "AW",
+   "value": 1
+  },
+  {
+   "source": "BF",
+   "target": "AW",
+   "value": 1
+  },
+  {
+   "source": "BE",
+   "target": "M",
+   "value": 1
+  },
+  {
+   "source": "BG",
+   "target": "AY",
+   "value": 1
+  },
+  {
+   "source": "CM",
+   "target": "AY",
+   "value": 1
+  },
+  {
+   "source": "BH",
+   "target": "AP",
+   "value": 1
+  },
+  {
+   "source": "BN",
+   "target": "BJ",
+   "value": 1
+  },
+  {
+   "source": "BT",
+   "target": "BJ",
+   "value": 1
+  },
+  {
+   "source": "BY",
+   "target": "BJ",
+   "value": 1
+  },
+  {
+   "source": "BO",
+   "target": "CO",
+   "value": 1
+  },
+  {
+   "source": "CO",
+   "target": "BS",
+   "value": 1
+  },
+  {
+   "source": "BX",
+   "target": "BS",
+   "value": 1
+  },
+  {
+   "source": "BP",
+   "target": "AB",
+   "value": 1
+  },
+  {
+   "source": "BQ",
+   "target": "B",
+   "value": 1
+  },
+  {
+   "source": "BR",
+   "target": "AQ",
+   "value": 1
+  },
+  {
+   "source": "BS",
+   "target": "BF",
+   "value": 1
+  },
+  {
+   "source": "BU",
+   "target": "AM",
+   "value": 1
+  },
+  {
+   "source": "BZ",
+   "target": "Z",
+   "value": 1
+  },
+  {
+   "source": "CL",
+   "target": "Z",
+   "value": 1
+  },
+  {
+   "source": "CA",
+   "target": "AH",
+   "value": 1
+  },
+  {
+   "source": "CB",
+   "target": "BL",
+   "value": 1
+  },
+  {
+   "source": "CJ",
+   "target": "BD",
+   "value": 1
+  },
+  {
+   "source": "CK",
+   "target": "CG",
+   "value": 1
+  },
+  {
+   "source": "CN",
+   "target": "CL",
+   "value": 1
+  },
+  {
+   "source": "CT",
+   "target": "AN",
+   "value": 1
+  }
+ ]
+}
